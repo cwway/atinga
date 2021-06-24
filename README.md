@@ -1,1 +1,1 @@
-# atinga
+# <http://atingaproject.com>
