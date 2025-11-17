@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Basic Website</title>
+  <style>
+    body {
+      margin: 0;
+      font-family: Arial, sans-serif;
+      background-color: white;
+    }
+    header {
+      background-color: #f5f5f5;
+      padding: 10px 0;
+      box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+    }
+    nav {
+      display: flex;
+      justify-content: center;
+    }
+    nav ul {
+      list-style: none;
+      margin: 0;
+      padding: 0;
+      display: flex;
+      gap: 30px;
+    }
+    nav li {
+      display: inline;
+    }
+    nav a {
+      text-decoration: none;
+      color: #333;
+      font-weight: 500;
+      transition: color 0.3s;
+    }
+    nav a:hover {
+      color: #0066cc;
+    }
+    main {
+      padding: 40px;
+      text-align: center;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <nav>
+      <ul>
+        <li><a href="#">Home</a></li>
+        <li><a href="#">About</a></li>
+        <li><a href="#">Footwear</a></li>
+        <li><a href="#">Impact</a></li>
+        <li><a href="#">Resources</a></li>
+      </ul>
+    </nav>
+  </header>
+  
+  <main>
+    <h1>Welcome to Our Website</h1>
+    <p>This is a clean, simple front-end layout with a white background and horizontal navigation.</p>
+  </main>
+</body>
+</html>
