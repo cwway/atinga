@@ -1,1 +1,2 @@
-# <http://atingaproject.com>
+## <http://atingaproject.com>
+<body>After resolving a hosting issue, we are rebooting this site in December 2025. We have design elements/assets for it, but want to build it on Github instead of Wordpress... Reach out via the <a href>form here</a> if you want to help us with this project! You will be compensated.</body>
