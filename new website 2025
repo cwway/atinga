@@ -3,11 +3,11 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Basic Website</title>
+  <title>atinga project 2025 commemorative website</title>
   <style>
     body {
       margin: 0;
-      font-family: Arial, sans-serif;
+      font-family: Roboto, sans-serif;
       background-color: white;
     }
     header {
@@ -31,7 +31,7 @@
     }
     nav a {
       text-decoration: none;
-      color: #333;
+      color: #114ABA;
       font-weight: 500;
       transition: color 0.3s;
     }
@@ -48,18 +48,16 @@
   <header>
     <nav>
       <ul>
-        <li><a href="#">Home</a></li>
-        <li><a href="#">About</a></li>
-        <li><a href="#">Footwear</a></li>
+        <li><a href="#">Purpose</a></li>
         <li><a href="#">Impact</a></li>
+        <li><a href="#">Footwear</a></li>
         <li><a href="#">Resources</a></li>
       </ul>
     </nav>
   </header>
-  
   <main>
-    <h1>Welcome to Our Website</h1>
-    <p>This is a clean, simple front-end layout with a white background and horizontal navigation.</p>
-  </main>
-</body>
-</html>
+    <h1>The Atinga Project</h1>
+    <p>Dignity, Honor, Humility.</p>
+    <img src="https://i.kickstarter.com/assets/011/687/079/0a881965c872a66c1aa662083188dfce_original.png?anim=false&fit=cover&gravity=auto&height=873&origin=ugc&q=92&v=1463686802&width=1552&sig=gTcLcKhMjSerWNF6tOoTEyBFTRm4vPNZ2mbf7gm4M%2Fs%3D" alt="atinga project logo" width="400" height="225">
+    <p>Our project website is coming back in December 2025! Stay tuned... visit the <a  href="https://web.archive.org/web/20230314114207/https://atingaproject.com/">archives here</a> or our <a  href="https://www.etsy.com/shop/AtingaProject">Etsy Shop here.</a></p>
+     <hr></hr>
